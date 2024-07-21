@@ -1,0 +1,30 @@
+.wp-core-ui .th-theme-notice a.button.button-secondary{
+    color: #2271b1;
+    border-color: #2271b1;
+    background: #f6f7f7;
+    margin-right: 3px;
+
+}
+
+.th-theme-notice{
+    background: #f8faff;
+    color: #515151;
+    text-align: center;
+    padding: 25px 10px !important;
+    position: relative;
+    box-shadow: none;
+    border-left-color: #2e78ff;
+}
+
+
+ .wp-core-ui .th-blue{
+
+    background: #2e78ff !important;
+    border-color: #2e78ff !important;
+ }
+
+ .wp-core-ui .th-blue:hover{
+
+    background: #0c71d9 !important;
+    border-color: #0c71d9 !important;
+ }

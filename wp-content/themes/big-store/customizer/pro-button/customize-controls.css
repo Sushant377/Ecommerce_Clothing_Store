@@ -1,0 +1,37 @@
+#customize-controls .control-section-big-store-1 .accordion-section-title:hover,
+#customize-controls .control-section-big-store-1 .accordion-section-title:focus {
+	background-color: #fff;
+}
+
+.control-section-big-store-1 .accordion-section-title .button {
+	margin-top:  -4px;
+	font-weight: 400;
+	margin-left: 8px;
+}
+
+	.rtl .control-section-big-store-1 .accordion-section-title .button {
+		margin-left:  0;
+		margin-right: 8px;
+	}
+
+a.button.pro-button-secondary.alignright {
+    background: #2e78ff;
+    color: white;
+    border: 1px;
+}
+
+
+li#customize-control-big-store-footer-pro-link a {
+    background: #2e78ff;
+    width: 100%;
+    display: block;
+    padding: 9px;
+    max-width: 108px;
+    margin: 0 auto;
+    color: #FFF;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 21px;
+    border-radius: 6px;
+}

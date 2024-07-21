@@ -1,0 +1,9 @@
+@import "./right-sidebar.scss";
+@import "./general.scss";
+@import "./advance-setting.scss";
+@import "./help.scss";
+@import "./pro-feature.scss";
+
+.active[data-slug="th-product-compare"] .premium a {
+  color: #c9356e;
+}

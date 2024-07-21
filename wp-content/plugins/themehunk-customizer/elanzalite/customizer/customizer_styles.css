@@ -1,0 +1,38 @@
+#widget-customizer-control-templates, .control-section.control-section-sidebar, .customize-control-sidebar_widgets .hide-if-js, .customize-control-sidebar_widgets label, .customize-control-widget_form .widget-control-save{
+display:block;
+}
+
+a.oneline-docs-to-pro-button {
+	background: rgba(0, 128, 0, 0.75);
+	padding: 5px;
+	border-radius: 2px;
+	color: #fff;
+	position: relative;
+	top: 7px;
+}
+.widget-content .wp-picker-input-wrap label{
+padding-bottom:0px;
+display:inherit;
+padding-top: 0px;
+
+}
+#customize-control-sdr_btn_break_color .description,#customize-control-mg_view_break_color .description,#customize-control-mg_cat_break_color .description{
+font-size:17PX;
+}
+
+#available-widgets #available-widgets-list div[class*="themehunk-customizer-section-news"] .widget-title::before,
+#available-widgets #available-widgets-list div[class*="themehunk-customizer-section-one"] .widget-title::before,
+#available-widgets #available-widgets-list div[class*="themehunk-customizer-section-two"] .widget-title::before,
+#available-widgets #available-widgets-list div[class*="themehunk-customizer-section-three"] .widget-title::before,
+#available-widgets #available-widgets-list div[class*="themehunk-customizer-section-four"] .widget-title::before,
+#available-widgets #available-widgets-list div[class*="themehunk-customizer-section-five"] .widget-title::before,
+#available-widgets #available-widgets-list div[class*="themehunk-customizer-section-add"] .widget-title::before,
+#available-widgets #available-widgets-list div[class*="advanced-recent-posts"] .widget-title::before,
+#available-widgets #available-widgets-list div[class*="themehunk-customizer-about-me-widget"] .widget-title::before,
+#available-widgets #available-widgets-list div[class*="advanced-social-widget"] .widget-title::before{
+content: "\f132";
+color:#66cda9;
+}
+a.button.pro-button-secondary.alignright {
+    background: #03a9f4;
+}

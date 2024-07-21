@@ -1,0 +1,115 @@
+@charset "UTF-8";
+.th-compare-pro-feature .th-compare-banner {
+  background: #2471b1;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 20px 26px;
+  border-radius: 4px;
+  color: white;
+  font-size: 15px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  grid-gap: 16px;
+  width: 687px;
+  max-width: 100%;
+}
+
+.th-compare-pro-feature .th-compare-banner .heading_ {
+  -webkit-box-flex: 3;
+      -ms-flex: 3;
+          flex: 3;
+  line-height: 1.4;
+}
+
+.th-compare-pro-feature .th-compare-banner .button_ {
+  -webkit-box-flex: 1.5;
+      -ms-flex: 1.5;
+          flex: 1.5;
+}
+
+.th-compare-pro-feature .th-compare-banner .button_ a {
+  display: block;
+  background: #f7a100;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  padding: 14px 14px 14px 63px;
+  font-size: inherit;
+  position: relative;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border-radius: 4px;
+}
+
+.th-compare-pro-feature .th-compare-banner .button_ a:before {
+  content: "";
+  font-family: "dashicons";
+  font-size: 36px;
+  position: absolute;
+  left: 16px;
+}
+
+.th-compare-pro-feature .th-compare-banner .bold_ {
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.th-compare-pro-feature .img-description {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  grid-gap: 70px;
+  margin: 70px 0;
+}
+
+.th-compare-pro-feature .img-description .wrap_ {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  grid-gap: 20px;
+  width: 780px;
+}
+
+.th-compare-pro-feature .img-description .wrap_ .img_ {
+  margin-left: -23px;
+}
+
+.th-compare-pro-feature .img-description .wrap_ .img_ img {
+  max-width: 90%;
+}
+
+.th-compare-pro-feature .img-description .wrap_ .description_ {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  grid-gap: 12px;
+}
+
+.th-compare-pro-feature .img-description .wrap_ .description_ .heading_ {
+  font-size: 22px;
+  line-height: 1;
+  font-weight: 600;
+  color: black;
+}
+
+.th-compare-pro-feature .img-description .wrap_ .description_ .text_ {
+  font-size: 15px;
+  font-weight: 400;
+  color: #4e4e4e;
+}
+/*# sourceMappingURL=pro-feature.css.map */

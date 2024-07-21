@@ -1,0 +1,37 @@
+.th-help-wrap {
+    visibility: visible;
+
+    .blocks {
+        display  : flex;
+        grid-gap : 40px;
+        flex-wrap: wrap;
+
+        >div {
+            padding        : 24px 22px;
+            box-shadow     : 0px 0px 5px 1px #eff8fd;
+            width          : calc(50% - 20px);
+            display        : flex;
+            flex-direction : column;
+            grid-gap       : 12px;
+            justify-content: center;
+
+            .link_ {
+                &.fb {
+                    background-color: #2b8ef2;
+                    width           : fit-content;
+                    color           : white;
+                    text-decoration : none;
+                    padding         : 7px 13px;
+                    display         : flex;
+                    border-radius   : 2px;
+
+                    &::before {
+                        content    : "";
+                        font-family: 'dashicons';
+                        font-size  : 16px;
+                    }
+                }
+            }
+        }
+    }
+}

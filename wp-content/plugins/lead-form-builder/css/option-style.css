@@ -1,0 +1,246 @@
+/** Free To pro Tab **/
+ 
+    .thmk-lead-block{
+    max-width:800px;
+    margin: 0 auto;
+    text-align:center;
+    padding: 30px 0;
+    overflow: hidden;
+    }
+    .thmk-section1{
+      background:#f5f5f5;
+    }
+    .thmk-lead-block h2{
+    font-size:32px;
+    line-height:36px;
+    color:#5B160F;
+    }
+    .small-border-lead {
+    border-top: 2px solid #0edbe6;
+    width: 140px;
+    margin: 30px auto;
+    }
+    .thmk-lead-block p{
+    font-size:18px;
+    line-height:24px;
+    color:#555;
+    }
+    .thmk-lead-block h3.star{
+    font-size:21px;
+    padding:24px 42px;
+    color:#fff;
+    background:#F7A205;
+    display:inline-block;
+    border-radius:35px;
+    }
+    .thmk-section2 ul.lead-list li.lead-list-row{
+    width: 32%;
+    float: left;
+    margin-right: 2%;
+    margin-bottom:30px;
+    position: relative;
+    }
+    .thmk-section2 ul.lead-list li.lead-list-row:nth-child(3n+3){
+      margin-right: 0%;
+    }
+    .thmk-section2 ul.lead-list{
+    padding-top:50px;
+    }
+    .thmk-section2 .lead-list{
+    padding-top:50px;
+    }
+    .thmk-section2 .lead-list-row i{
+    color:#fff;
+    background-color:#A9D8E8;
+    border-radius:50%;
+    width:100px;
+    height:100px;
+    line-height:100px;
+    font-size:50px;
+    color:#fff;
+    }
+    .lead-buy-btn{
+    background-image: none;
+    color: #fff;
+    text-shadow: none;
+    background:#0EDBE6;
+    font-size: 21px;
+    padding: 15px 35px;
+    margin-top:20px;
+    margin-bottom:20px;
+    text-align: center;
+    display: inline-block;
+    text-decoration:none;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -o-transition: 0.5s;
+    -ms-transition: 0.5s;
+    transition: 0.5s;
+    }
+    .lead-buy-btn:hover {
+    -webkit-box-shadow: 0px 4px 0px 0px rgba(1,191,202,1);
+    -moz-box-shadow: 0px 4px 0px 0px rgba(1,191,202,1);
+    box-shadow: 0px 4px 0px 0px rgba(1,191,202,1);
+    }
+
+.about-lfb{
+overflow:hidden;
+   padding-left: 20px;
+}
+a.lfb-about-btn {
+    text-decoration: none;
+    padding: 10px;
+    background: #84dee2;
+    color: #fff;
+    letter-spacing: .6px;
+    display: inline-block;
+}
+.about-lfb .lfb-description {
+    margin-bottom: 60px;
+}
+.lfb-recommended-themes{
+padding-left: 0;   
+max-width: 800px;   
+display: flex;
+}
+.lfb-recommended-themes li {
+    margin-top:20px;
+    width: 22%;
+    float:left;
+    margin-right:5%;
+    list-style-type: none;
+    text-align:center;
+}
+
+.lfb-recommended-themes li:nth-child(4n+1){
+clear:both;
+}
+.lfb-recommended-themes li:nth-child(4n) {
+    margin-right:0%;
+}
+.lfb-recommended-themes li img{
+    max-width: 250px;
+    width:100%;
+	border: 1px solid #dadada;
+    }
+.lfb-recommended-themes .rec-product-link{
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    display: inline-block;
+    margin-top: 20px;
+    letter-spacing: .6px;
+}
+.lfb-recommended-themes li{
+position:relative;
+}
+.thmk-ribbon {
+    position: absolute;
+    left: -5px;
+    top: -5px;
+    z-index: 1;
+    overflow: hidden;
+    width: 75px;
+    height: 75px;
+    text-align: right;
+}
+.thmk-ribbon span {
+    font-size: 12px;
+    font-weight: bold;
+    color: #FFF;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 26px;
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+    width: 100px;
+    display: block;
+    background: linear-gradient(#ff545a 0,#d54348 100%);
+    box-shadow: 0 3px 10px -5px rgba(0,0,0,1);
+    position: absolute;
+    top: 14px;
+    left: -22.5px;
+}
+/** Tab Style **
+/* Style the tab buttons */
+.tablink {
+    background-color: #f8faff;
+    color: var(--sub-sub-menu-color);
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 16px;
+    width: 50%;
+    font-weight: 500;
+}
+
+/* Change background color of buttons on hover */
+.tablink:hover {
+    background-color: #e5ecff;
+}
+
+/* Set default styles for tab content */
+.tabcontent {
+    display: none;
+    padding: 50px;
+    text-align: center;
+}
+
+/* Style each tab content individually */ 
+#freetopro {background-color:#f5f5f5;}
+#aboutus {background-color:#fff;}
+.about-lfb{
+text-align:left;
+}
+.about-lfb .lfb-description{
+overflow:hidden;
+margin-bottom:40px;
+} 
+.lfb-description .lfb-desc {
+    width: 48%;
+    float: left;
+padding-right:2%;
+}
+.lfb-description .lfb-desc-help {
+    width: 48%;
+    float: left;
+    padding-left: 2%;
+}
+
+    @media screen and (max-width: 1000px){
+    .thmk-lead-block{
+    max-width:90%;
+    }
+    .thmk-section2 ul.lead-list li.lead-list-row{
+    width: 48%;
+    float: left;
+    margin-right: 2%;
+    margin-bottom:30px;
+    position: relative;
+    }
+    .thmk-section2 ul.lead-list li.lead-list-row:nth-child(3n+1){
+      margin-right: 2%;
+    }
+    .thmk-section2 ul.lead-list li.lead-list-row:nth-child(2n+1){
+      margin-right: 0%;
+    }
+    @media screen and (max-width: 550px){
+    .thmk-section2 ul.lead-list li.lead-list-row{
+    width: 100%;
+    float: none;
+    margin-right: 0%;
+    margin-bottom:30px;
+    margin-top:20px;
+    position: relative;
+    }
+    .thmk-section2 ul.lead-list li.lead-list-row:nth-child(3n+1){
+      margin-right: 0%;
+    }
+    .thmk-section2 ul.lead-list li.lead-list-row:nth-child(2n+1){
+      margin-right: 0%;
+      }
+    }
+
+

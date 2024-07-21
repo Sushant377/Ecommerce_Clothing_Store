@@ -1,0 +1,39 @@
+/**
+ * Twenty Twenty YITH WooCommerce Wishlist CSS
+ *
+ * @author YITH <plugins@yithemes.com>
+ * @package YITH WooCommerce Wishlist
+ * @version 3.0.0
+ */
+
+.add-to-wishlist-after_add_to_cart .yith-wcwl-add-to-wishlist > div,
+.add-to-wishlist-before_add_to_cart .yith-wcwl-add-to-wishlist > div {
+	display         : flex;
+	flex-direction  : column;
+	align-items     : center;
+	justify-content : center;
+}
+
+.wishlist_table .product-add-to-cart a {
+	white-space : nowrap;
+	display     : block !important;
+}
+
+.woocommerce-page table.shop_table {
+	width : 90%;
+}
+
+.wishlist_table .product-remove > div {
+	display         : flex;
+	justify-content : center;
+}
+
+.wishlist_table .product-remove .remove_from_wishlist {
+	line-height : 0.85em;
+}
+
+.yith-wcwl-share li.share-button a {
+	display         : flex;
+	align-items     : center;
+	justify-content : center;
+}

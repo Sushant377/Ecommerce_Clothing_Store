@@ -1,0 +1,88 @@
+#customize-controls .control-section-th-pro-sect-link-1 .accordion-section-title:hover,
+#customize-controls .control-section-th-pro-sect-link-1 .accordion-section-title:focus {
+	background-color: #fff;
+}
+
+.control-section-th-pro-sect-link-1 .accordion-section-title .button {
+	margin-top:  -4px;
+	font-weight: 400;
+	margin-left: 8px;
+}
+
+	.rtl .control-section-th-pro-sect-link-1 .accordion-section-title .button {
+		margin-left:  0;
+		margin-right: 8px;
+	}
+
+a.button.pro-button-secondary.alignright {
+    background: #008000;
+    color: white;
+    border: 1px;
+}
+#accordion-section-section_home_ordering .accordion-section-title:after,
+#accordion-section-header_leadform_pro_feature .accordion-section-title:after,
+#accordion-section-section_addnew_ .accordion-section-title:after,
+#accordion-section-more_slidr_ .accordion-section-title:after
+{
+content: "\f160";
+color:#999;
+}
+#accordion-section-section_home_ordering .accordion-section-title:hover:after,
+#accordion-section-header_leadform_pro_feature .accordion-section-title:hover:after,
+#accordion-section-section_addnew_ .accordion-section-title:hover:after,
+#accordion-section-more_slidr_ .accordion-section-title:hover:after{
+color:#999!important;
+}
+#accordion-section-section_home_ordering .accordion-section-title:hover,
+#accordion-section-header_leadform_pro_feature .accordion-section-title:hover,
+#accordion-section-section_addnew_ .accordion-section-title:hover,
+#accordion-section-more_slidr_ .accordion-section-title:hover{
+color: #999!important;
+border-left-color: #999!important;
+}
+
+/*Home Page Settings */
+
+li#accordion-section-section_default_home h3 {
+    background: #a5a7ad !important;
+    color: #fff !important;
+}
+.button-large.flactvate{ display:none; }
+
+.flactvate-activating{
+  color:#f7a205;
+  margin-top: 15px;
+  display:none;
+  float: right;
+}
+.loader {
+  border: 5px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 5px solid #1b619d;
+  width: 20px;
+  height: 20px;
+  -webkit-animation: spin 1s linear infinite; /* Safari */
+  animation: spin 1s linear infinite;
+    float: right;
+    margin-top: 10px;
+    display: none;
+      margin-left:5px;
+
+}
+
+/* Safari */
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+#accordion-section-pro_button a,
+.section-th-pro-sect-link-1 a {
+  background: #008000;
+  color: #FFF;
+}

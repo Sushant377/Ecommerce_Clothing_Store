@@ -1,0 +1,1 @@
+<?php return array('dependencies' => array('lapilli-ui-styles', 'lodash', 'react', 'react-dom', 'wp-block-editor', 'wp-blocks', 'wp-components', 'wp-core-data', 'wp-data', 'wp-element', 'wp-keyboard-shortcuts', 'wp-media-utils', 'wp-polyfill', 'wp-primitives'), 'version' => '2d235b66c3b75c837678');

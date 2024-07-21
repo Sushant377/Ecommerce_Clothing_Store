@@ -1,0 +1,41 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "create-block/lead-form-builder",
+  "version": "0.1.0",
+  "title": "Lead Form Builder",
+  "category": "text",
+  "icon": "feedback",
+  "keywords": [
+    "contact form",
+    "lead form builder",
+    "themehunk"
+  ],
+  "description": "Lead Form Builder is a contact form builder as well as lead generator.",
+  "example": {},
+  "supports": {
+    "html": false
+  },
+  "textdomain": "lead-form-builder",
+  "attributes": {
+    "formid": {
+      "type": "string",
+      "default": 1
+    },
+    "title": {
+      "type": "string"
+    },
+    "formList": {
+      "type": "object"
+    },
+    "randerForm": {
+      "type": "string",
+      "default": "[lead-form form-id=1 title=Contact Us]"
+    }
+  },
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css",
+  "render": "file:./render.php",
+  "viewScript": "file:./view.js"
+}

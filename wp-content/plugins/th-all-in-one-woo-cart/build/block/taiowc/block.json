@@ -1,0 +1,25 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "taiowc/taiowc",
+  "version": "0.1.0",
+  "title": "All In One Woo Cart",
+  "category": "taiowc",
+  "description": "",
+  "supports": {
+    "html": false
+  },
+  "textdomain": "taiowc",
+  "attributes": {
+    "id": {
+      "type": "string"
+    },
+    "uniqueID": {
+      "type": "string"
+    },
+    "cartStyle": {
+      "type": "string",
+      "default": "[taiowc]"
+    }
+  }
+}

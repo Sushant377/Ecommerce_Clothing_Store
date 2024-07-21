@@ -1,0 +1,293 @@
+#customize-theme-controls ul#sub-accordion-section-slider_section,
+#customize-theme-controls ul#sub-accordion-section-woo_cate_slider_panel{
+    padding: 12px 0PX;
+}
+li#accordion-panel-shop_panel h3, li#accordion-panel-woo_cate_product_panel h3,
+li#accordion-panel-woo_cate_slider_panel h3, li#accordion-panel-search_box_panel h3 ,
+#accordion-panel-front_page_section h3 {
+    color: #1a6c8a !important;
+}
+#accordion-panel-front_page_section h3{
+background: #d4d4d4 !important;
+}
+
+#widget-customizer-control-templates, .control-section.control-section-sidebar, .customize-control-sidebar_widgets .hide-if-js, .customize-control-sidebar_widgets label, .customize-control-widget_form .widget-control-save{
+display:block;
+}
+.customize-control-widget_form .widget{
+    padding-bottom:10px;
+}
+.customize-panel-back {
+    height: 95px;
+}
+a.oneline-docs-to-pro-button {
+	background: rgba(0, 128, 0, 0.75);
+	padding: 5px;
+	border-radius: 2px;
+	color: #fff;
+	position: relative;
+	top: 7px;
+}
+strong.panel-title.site-title {
+    margin-bottom: 10px;
+}
+/***Section drag and drop feature***/
+#customize-control-home_sorting{
+	margin-top:20px;
+}
+#customize-control-home_sorting .customize-control-title{
+	margin-bottom:10px
+}
+ul#sortable li {
+	padding: 7px;
+	margin-bottom:15px;
+	box-shadow: 0 0 1px #7B7A7A;
+	cursor: move;
+	background: #fff;
+}
+ul#sortable li label{
+	cursor:move;
+}
+.ui-sortable-placeholder{
+	border: 2px dashed #00a0d2;
+	box-shadow:  none!important;
+	min-height:20px;
+}
+
+.widget-content label {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: block;
+}
+
+.widget-control-actions {
+    margin-top: 15px;
+}
+
+#available-widgets #available-widgets-list div[class*="shopline-brand"] .widget-title::before
+{
+   content: "\f313";
+   color: #e7c09c;
+}
+#available-widgets #available-widgets-list div[class*="shopline-testimonial"] .widget-title::before,
+#available-widgets #available-widgets-list div[class*="shopline-shopservice"] .widget-title::before
+{
+    color: #e7c09c;
+}
+#available-widgets #available-widgets-list div[class*="advanced-recent-posts"] .widget-title::before
+{
+    color: #e7c09c;
+}
+.customize-panel-back {
+    height: 70px;
+}
+#accordion-section-section_oder .accordion-section-title:after,
+#accordion-section-more_slidr_ .accordion-section-title:after,
+#accordion-section-pro_typo .accordion-section-title:after,
+#accordion-section-section_newsletter .accordion-section-title:after{
+content: "\f160";
+color:#999;	
+}
+#accordion-section-section_oder .accordion-section-title:hover:after,
+#accordion-section-more_slidr_ .accordion-section-title:hover:after,
+#accordion-section-pro_typo .accordion-section-title:hover:after,
+#accordion-section-section_newsletter .accordion-section-title:hover:after{
+color:#999!important;	
+}
+#accordion-section-section_oder .accordion-section-title:hover,
+#accordion-section-more_slidr_ .accordion-section-title:hover,
+#accordion-section-pro_typo .accordion-section-title:hover,
+#accordion-section-section_newsletter .accordion-section-title:hover{
+color: #999!important;
+border-left-color: #999!important;	
+}
+.customize-control-radio {
+    padding: 5px 0 0px;
+}
+#customize-control-woo_grid option:disabled { color: #bbb;background:#eee; }
+
+#sub-accordion-section-sidebar-widgets-testimonial-widget .description{
+	display:none;
+}
+#customize-theme-controls .control-section#sub-accordion-section-sidebar-widgets-testimonial-widget:last-of-type.open {
+    border-bottom-color: #dddddd0d;
+}
+
+li.customize-control{
+margin:0px;
+}
+
+li.customize-control .range-slider,
+li.customize-control .attachment-media-view,
+li.customize-control input[type=text],
+li.customize-control input[type=number],
+li.customize-control textarea,
+li.customize-control select,
+li.customize-control .wp-picker-container,
+li.customize-control #input_front_garedient_hero,
+li.customize-control .selection span,.shopline-tabs-control,
+li.customize-control ul,
+li.customize-control .description,
+li#customize-control-testm_play,
+li#customize-control-testimonial_options,
+li#customize-control-ribbon_bg_options,
+li#customize-control-woo_cate_image_bg,
+li.customize-control-woo_cate_product_options,
+li#customize-control-aboutus_options,
+li#customize-control-blog_options,
+li#customize-control-blog_play,
+li#customize-control-sngle_sidebar_set,
+li#customize-control-shop_sidebar,
+li#customize-control-footer_options,#customize-control-widget_redirect{
+margin-bottom:12px!important;	
+} 
+li.customize-control .widget-content textarea, li.customize-control .widget-content input{
+margin-bottom:0px!important;	
+}
+#accordion-panel-front_page_section h3 ,#accordion-section-section_order h3{
+background: #4fd1cd!important;
+color: #fff!important;
+border-left-color:#4fd1cd!important;
+}
+#accordion-panel-front_page_section .accordion-section-title:after{
+color:#fff;
+}
+#customize-theme-controls .add-new-widget {
+background-color: #008AFF ;
+color:#fff
+}
+li#customize-control-woo_cate_product_list .customize-control-title,
+li#customize-control-front_page_slide_first_line_break_color .description,
+li#customize-control-front_page_slide_second_line_break_color .description,
+li#customize-control-front_page_slide_third_line_break_color .description,
+li#customize-control-sldr_content_front_align_set label,
+li#customize-control-_content_front_align_set label,
+li#customize-control-inner_page_slide_first_line_break_color .description,
+li#customize-control-inner_page_slide_second_line_break_color .description,
+li#customize-control-inner_page_slide_third_line_break_color .description,
+#customize-control-sngle_sidebar_set .customize-control-title,
+#customize-control-shop_sidebar .customize-control-title,
+#customize-control-woo_cate_slider_list .customize-control-title,
+#customize-control-about_rgt_line_break_color .description,
+#customize-control-about_line_break_color .description,
+#customize-control-slider_cate .customize-control-title,
+#customize-control-three_column_one_line_break_color .description,
+#customize-control-three_column_two_line_break_color .description,
+#customize-control-three_column_three_line_break_color .description,
+#customize-control-shopline_layout .customize-control-title,
+#customize-control-contn_size .customize-control-title,
+#customize-control-header_break_color .description,
+#customize-control-menu_break_color .description,
+#customize-control-icon_break_color .description,
+#customize-control-woo_cate_product_line_break_color .description,
+#customize-control-woo_slide_product_line_break_color .description,
+#customize-control-footer_logo_line_break_color .description,
+#customize-control-footer_copy_line_break_color .description,
+#customize-control-footer_social_line_break_color .description,
+#customize-control-ribbon_section_padding .description,
+#customize-control-woocat_section_padding .description,
+#customize-control-service_section_padding .description,
+#customize-control-woo_slide_section_padding .description,
+#customize-control-woo_cate_product_section_padding .description,
+#customize-control-testimonial_section_padding .description,
+#customize-control-about_section_padding .description,
+#customize-control-button_line_break_color .description,
+#customize-control-headingq_line_break_color .description,
+#customize-control-blog_section_padding .description,
+#customize-control-three_column_ads_section_padding .description,
+#customize-control-footer_section_padding .description{
+    text-transform: uppercase;
+    padding: 6px 12px;
+    margin-left: -15px;
+    margin-right: -15px;
+    background-color: #232531;
+    border-bottom: 1px #ededed solid;
+    width: auto;
+    display: block;
+    border-top: 1px #ededed solid;
+    color: #ffffff;
+    font-style: inherit;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight:normal;
+    margin-bottom: 15px;
+}
+#customize-control-pro_typo_adv .description,
+#customize-control-h1_typo_detail .description,
+#customize-control-h2_typo_detail .description,
+#customize-control-h3_typo_detail .description,
+#customize-control-h4_typo_detail .description,
+#customize-control-h5_typo_detail .description,
+#customize-control-h6_typo_detail .description,
+#customize-control-more_grd_lyt .description,
+#customize-control-more_grd_lyt_1 .description,
+#customize-control-section_order .description,
+#customize-control-more_news_1 .description{
+    border: 1px solid #c3c3c3;
+    font-size: 13px;
+    background-color: rgb(219, 238, 253);
+    padding: 10px 20px;
+}
+#customize-theme-controls hr{
+display:none!important;	
+}
+#customize-theme-controls #accordion-panel-front_page_section:hover>.accordion-section-title:after,
+#customize-theme-controls #accordion-panel-front_page_section:focus>.accordion-section-title:after{
+    color:#FF6E24;
+}
+/*checkbox-style*/
+.customize-control-checkbox input[type="checkbox"],.customize-control-checkbox-multiple input[type="checkbox"]{
+    position: relative;
+    cursor: pointer;
+    margin-bottom:0;
+    width: 20px;
+    height: 20px;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+}
+
+.customize-control-checkbox input[type="checkbox"]:checked:before, 
+.customize-control-checkbox-multiple input[type="checkbox"]:checked:before{
+    content: "\f147";
+    font-family: dashicons;
+    font-size: 23px;
+    left: 0;
+    top: 2px;
+}
+.customize-control-checkbox input[type=checkbox]:checked:before, 
+.customize-control-checkbox-multiple input[type=checkbox]:checked:before{
+    content: "\f147";
+    margin: -2px 0 0 -4px;
+    color: #1e8cbe;
+}
+
+.customize-control-checkbox label,
+.customize-control-checkbox label,
+.customize-control-radio label,
+.customize-control-site_icon .favicon-preview .browser-preview{
+    vertical-align: top;
+    font-size: 14px;
+}
+.customize-control input[type=number], 
+.customize-control input[type=search], 
+.customize-control input[type=tel], 
+.customize-control input[type=url], 
+.customize-control input[type=text], 
+.customize-control input[type=password], 
+.customize-control input[type=email],
+.customize-control select{
+    width: 100%;
+    line-height: 24px;
+    margin: 0;
+    height: 34px;
+}
+#customize-theme-controls .accordion-section-title.thunk-section-hidden:after{
+content: "\f530";
+color: #dcdcdc;
+}
+#customize-theme-controls .accordion-section-title.thunk-section-hidden{
+  color: #dcdcdc;  
+}
+.customize-control-radio-image .ui-buttonset {
+    text-align: left;
+}

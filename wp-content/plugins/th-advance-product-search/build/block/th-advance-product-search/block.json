@@ -1,0 +1,25 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "th-advance-product-search/th-advance-product-search",
+  "version": "0.1.0",
+  "title": "Advance Product Search",
+  "category": "th-advance-product-search",
+  "description": "",
+  "supports": {
+    "html": false
+  },
+  "textdomain": "th-advance-product-search",
+  "attributes": {
+    "id": {
+      "type": "string"
+    },
+    "uniqueID": {
+      "type": "string"
+    },
+    "searchStyle": {
+      "type": "string",
+      "default": "[th-aps]"
+    }
+  }
+}

@@ -1,0 +1,279 @@
+.th-tab-heading {
+  display: block;
+  font-size: 22px;
+  line-height: 1;
+  margin: 27px auto 22px auto;
+  border-bottom: 1px solid #f0f0f1;
+  padding-bottom: 58px;
+  color: #2e2e2e;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+  width: 100%;
+}
+
+[data-group-tabs][data-tab-container] {
+  display: none;
+}
+
+.active[data-group-tabs][data-tab-container] {
+  display: block;
+}
+
+.th-product-compare-wrap {
+  margin-top: 20px;
+}
+
+.th-product-compare-wrap * {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.th-product-compare-wrap a:focus {
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  outline: none;
+}
+
+.th-product-compare-wrap .th-product-compare-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.th-product-compare-wrap .th-product-compare-container .logo-detail {
+  text-align: -webkit-center;
+  padding: 32px 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  grid-gap: 10px;
+  border-bottom: 1px solid #d2d2d2;
+}
+
+.th-product-compare-wrap .th-product-compare-container .logo-detail span {
+  color: black;
+  font-size: 20px;
+  display: block;
+  line-height: 1;
+  font-weight: 600;
+}
+
+.th-product-compare-wrap .th-product-compare-container .th-nav_ {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  width: 18%;
+  position: relative;
+  padding: 0 0 67px 0;
+  border-right: 1px solid #f3f3f3;
+  background-color: #f0f0f1;
+}
+
+.th-product-compare-wrap .th-product-compare-container .th-nav_ > a {
+  padding: 24px 15px;
+  text-decoration: none;
+  color: black;
+  border-bottom: 1px solid #d2d2d2;
+  letter-spacing: 0.7px;
+  font-size: 16px;
+  line-height: 1.3;
+  border-left: 4px solid #f7f7f700;
+  font-weight: 600;
+}
+
+.th-product-compare-wrap .th-product-compare-container .th-nav_ > a:last-child {
+  border: none;
+}
+
+.th-product-compare-wrap .th-product-compare-container .th-nav_ > a:hover, .th-product-compare-wrap .th-product-compare-container .th-nav_ > a.active {
+  background: white;
+  color: #fd654b;
+  border-left: 4px solid;
+}
+
+.th-product-compare-wrap .th-product-compare-container .th-nav_ > a[data-tab="pro-feature"] {
+  color: #ef653f;
+}
+
+.th-product-compare-wrap .th-product-compare-container .th-nav_ .th-save-btn {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 9px;
+  grid-gap: 20px;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  background: #ebebeb;
+}
+
+.th-product-compare-wrap .th-product-compare-container .th-nav_ .th-save-btn button {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  grid-gap: 7px;
+  padding: 0 25px;
+}
+
+.th-product-compare-wrap .th-product-compare-container .th-nav_ .th-save-btn button:before {
+  font-family: "dashicons";
+  height: unset;
+  width: unset;
+}
+
+.th-product-compare-wrap .th-product-compare-container .th-nav_ .th-save-btn button.th-compare-reset-style-btn:before {
+  content: "\f531";
+}
+
+.th-product-compare-wrap .th-product-compare-container .th-nav_ .th-save-btn button.loading {
+  pointer-events: none;
+  opacity: 0.5;
+}
+
+.th-product-compare-wrap .th-product-compare-container .th-nav_ .th-save-btn button.loading:before {
+  content: "\f463";
+  -webkit-animation: loaderTMK 0.8s linear 0s infinite forwards;
+          animation: loaderTMK 0.8s linear 0s infinite forwards;
+}
+
+.th-product-compare-wrap .container-tabs {
+  width: 58%;
+  padding: 30px;
+  background: white;
+}
+
+.color-output {
+  display: block;
+  height: 30px;
+  width: 60px;
+  border: 1px solid #dcdcdc;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+label.color-output {
+  display: block;
+  height: 25px;
+  width: 45px;
+  border: 1px solid #dcdcdc;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.th-color-title {
+  font-weight: 400;
+  font-size: 15px;
+  word-spacing: 0.05rem;
+}
+
+.bold-heading {
+  color: #2e2e2e;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.th-general {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.th-general .th-option_ {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+}
+
+.th-general .th-option_ table tr {
+  margin: 21px 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding-bottom: 6px;
+}
+
+.th-general .th-option_ table tr:first-child {
+  margin-top: 0;
+}
+
+.th-general .th-option_ table tr .bold-heading:first-child {
+  max-width: unset;
+}
+
+.th-general .th-option_ table tr td {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  line-height: 1;
+}
+
+.th-general .th-option_ table tr td:first-child {
+  min-width: 258px;
+  max-width: 258px;
+}
+
+.th-general .th-option_ table tr td.shortcode-appear {
+  font-size: 15px;
+  color: #565c62;
+  background: #efefef;
+  max-width: 604px;
+  text-align: center;
+  padding: 13px 10px;
+  border-radius: 4px;
+}
+
+.th-general .th-option_ table input,
+.th-general .th-option_ table select {
+  width: 250px;
+  padding: 5px;
+  border-color: #e4e4e7;
+}
+
+@-webkit-keyframes loaderTMK {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+
+@keyframes loaderTMK {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+
+.description {
+  font-size: 12px;
+  font-weight: 300;
+  color: #a7a7a7;
+  font-style: normal;
+  margin-top: 6px;
+  display: block;
+}
+/*# sourceMappingURL=general.css.map */

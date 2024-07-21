@@ -1,0 +1,36 @@
+#widget-customizer-control-templates, .control-section.control-section-sidebar, .customize-control-sidebar_widgets .hide-if-js, .customize-control-sidebar_widgets label, .customize-control-widget_form .widget-control-save{
+display:block;
+}
+a.oneline-docs-to-pro-button {
+	background: rgba(0, 128, 0, 0.75);
+	padding: 5px;
+	border-radius: 2px;
+	color: #fff;
+	position: relative;
+	top: 7px;
+}
+strong.panel-title.site-title {
+    margin-bottom: 10px;
+}
+.widget-content label {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: block;
+}
+.widget-control-actions {
+    margin-top: 15px;
+}
+#available-widgets #available-widgets-list div[class*="themehunk-customizer-services"] .widget-title::before
+{   content: "\f339";
+    color: #D4B068;
+}
+#available-widgets #available-widgets-list div[class*="themehunk-customizer-team"] .widget-title::before
+{
+   content: "\f307";
+   color: #D4B068;
+}
+
+#available-widgets #available-widgets-list div[class*="themehunk-customizer-testimonial"] .widget-title::before
+{
+    color: #D4B068;
+}

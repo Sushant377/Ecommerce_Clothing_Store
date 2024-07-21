@@ -1,0 +1,363 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-04-02 17:51+0530\n"
+"PO-Revision-Date: 2022-04-02 17:51+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/page.php:9
+msgid "TH Product Compare"
+msgstr ""
+
+#: admin/page.php:11
+msgid "Basic Settings"
+msgstr ""
+
+#: admin/page.php:12
+msgid "Advance"
+msgstr ""
+
+#: admin/page.php:13
+msgid "Premium"
+msgstr ""
+
+#: admin/page.php:14
+msgid "Help"
+msgstr ""
+
+#: admin/page.php:15
+msgid "ThemeHunk Useful Plugins"
+msgstr ""
+
+#: admin/page.php:17
+msgid "Reset"
+msgstr ""
+
+#: admin/page.php:18
+msgid "Save"
+msgstr ""
+
+#: admin/pages/advance-setting.php:40
+msgid "Advance Settings"
+msgstr ""
+
+#: admin/pages/advance-setting.php:44
+msgid "Fields to Show in Comparison Table"
+msgstr ""
+
+#: admin/pages/advance-setting.php:52
+msgid "Repeat Fields"
+msgstr ""
+
+#: admin/pages/advance-setting.php:57
+msgid "Repeat the <b> &#160 price &#160 </b> at the end of the table"
+msgstr ""
+
+#: admin/pages/advance-setting.php:67
+msgid "Repeat  <b>&#160 add to cart &#160</b> at the end of the table"
+msgstr ""
+
+#: admin/pages/general.php:25
+msgid "Appearance"
+msgstr ""
+
+#: admin/pages/general.php:28
+msgid "Link or Button"
+msgstr ""
+
+#: admin/pages/general.php:31
+msgid "Button"
+msgstr ""
+
+#: admin/pages/general.php:32
+msgid "Link"
+msgstr ""
+
+#: admin/pages/general.php:34
+msgid "How you want to display compare trigger (Like a Link or a Button)."
+msgstr ""
+
+#: admin/pages/general.php:38
+msgid "Link / Button Text"
+msgstr ""
+
+#: admin/pages/general.php:41
+msgid ""
+"This value define maximum number of products you want to add in the compare "
+"table."
+msgstr ""
+
+#: admin/pages/general.php:45
+msgid "Number of Product to Compare"
+msgstr ""
+
+#: admin/pages/general.php:51
+msgid "Display Compare Button"
+msgstr ""
+
+#: admin/pages/general.php:56
+msgid "Product Single Page."
+msgstr ""
+
+#: admin/pages/general.php:66
+msgid "Shop and Archive Pages."
+msgstr ""
+
+#: admin/pages/help.php:7 admin/pages/right-sidebar.php:4
+msgid "Documentation"
+msgstr ""
+
+#: admin/pages/help.php:8
+msgid ""
+"Our plugin is well documented, Please go with documentation & learn to "
+"customise plugin."
+msgstr ""
+
+#: admin/pages/help.php:9
+msgid "Docs"
+msgstr ""
+
+#: admin/pages/help.php:12
+msgid "Contact Support"
+msgstr ""
+
+#: admin/pages/help.php:13
+msgid "If you need any help you can contact to our support team."
+msgstr ""
+
+#: admin/pages/help.php:14
+msgid "Need help ?"
+msgstr ""
+
+#: admin/pages/help.php:17
+msgid "Join Group"
+msgstr ""
+
+#: admin/pages/help.php:18
+msgid ""
+"Join the community of friendly ThemeHunk users. Get connected, share "
+"opinion, ask questions and help each other!"
+msgstr ""
+
+#: admin/pages/help.php:19
+msgid "Please Join Our Facebook Group"
+msgstr ""
+
+#: admin/pages/help.php:20
+msgid "Join Our Facebook Group"
+msgstr ""
+
+#: admin/pages/help.php:23 admin/themehunk-menu/th-option/sidebar.php:21
+msgid "Leave us a review"
+msgstr ""
+
+#: admin/pages/help.php:24 admin/themehunk-menu/th-option/sidebar.php:22
+msgid "We would love to hear your feedback."
+msgstr ""
+
+#: admin/pages/help.php:25 admin/themehunk-menu/th-option/sidebar.php:23
+msgid "Submit review"
+msgstr ""
+
+#: admin/pages/pro-feature.php:8 admin/pages/pro-feature.php:69
+msgid "Upgrade to"
+msgstr ""
+
+#: admin/pages/pro-feature.php:9 admin/pages/pro-feature.php:70
+msgid "PREMIUM VERSION"
+msgstr ""
+
+#: admin/pages/pro-feature.php:10 admin/pages/pro-feature.php:71
+msgid "TH PRODUCT COMPARE"
+msgstr ""
+
+#: admin/pages/pro-feature.php:14 admin/pages/pro-feature.php:75
+msgid "UPGRADE PRO"
+msgstr ""
+
+#: admin/pages/pro-feature.php:22
+msgid "General Setting"
+msgstr ""
+
+#: admin/pages/pro-feature.php:23
+msgid "Customize Button Appearnace such as, Button icon, and Table Animation."
+msgstr ""
+
+#: admin/pages/pro-feature.php:31
+msgid "Advance Setting"
+msgstr ""
+
+#: admin/pages/pro-feature.php:32
+msgid ""
+"Select what filed to show or hide and field shorting for product compare by "
+"attribute."
+msgstr ""
+
+#: admin/pages/pro-feature.php:40
+msgid "Compare Table Style"
+msgstr ""
+
+#: admin/pages/pro-feature.php:41
+msgid "Customize styling and appearance of compare table."
+msgstr ""
+
+#: admin/pages/pro-feature.php:49
+msgid "Custom Shortcode"
+msgstr ""
+
+#: admin/pages/pro-feature.php:50
+msgid ""
+"Create Custom shortcodes for product comparison to display on a single page "
+"or post."
+msgstr ""
+
+#: admin/pages/pro-feature.php:58
+msgid "Single Product Page Compare Setting"
+msgstr ""
+
+#: admin/pages/pro-feature.php:59
+msgid ""
+"Enable and customize products to add on all single product compare page."
+msgstr ""
+
+#: admin/pages/right-sidebar.php:5
+msgid "Want to know how this plugin works. Read our Documentation."
+msgstr ""
+
+#: admin/pages/right-sidebar.php:6
+msgid "READ DOCUMENTATION"
+msgstr ""
+
+#: admin/pages/right-sidebar.php:9
+msgid "Unlock Th Product Compare Pro"
+msgstr ""
+
+#: admin/pages/right-sidebar.php:12
+msgid "Upgrade Pro"
+msgstr ""
+
+#: admin/pages/themehunk-useful-plugins.php:4
+msgid "Themehunk Useful Plugins"
+msgstr ""
+
+#: admin/pages/themehunk-useful-plugins.php:15
+msgid "TH All in One Woo Cart Pro"
+msgstr ""
+
+#: admin/pages/themehunk-useful-plugins.php:26
+msgid "Lead Form Elementor Builder"
+msgstr ""
+
+#: admin/pages/themehunk-useful-plugins.php:37
+msgid "TH Variation Swatches"
+msgstr ""
+
+#: admin/pages/themehunk-useful-plugins.php:48
+msgid "WP Popup Builder"
+msgstr ""
+
+#: admin/pages/themehunk-useful-plugins.php:59
+msgid "TH Advance Product Search"
+msgstr ""
+
+#: admin/themehunk-menu/th-option/header.php:19
+msgid "Plugins"
+msgstr ""
+
+#: admin/themehunk-menu/th-option/header.php:31
+msgid "TH Shop Mania Free Theme"
+msgstr ""
+
+#: admin/themehunk-menu/th-option/header.php:32
+msgid "Elementor + WooCommerce Free WordPress Theme."
+msgstr ""
+
+#: admin/themehunk-menu/th-option/header.php:34
+msgid "View Detail"
+msgstr ""
+
+#: admin/themehunk-menu/th-option/sidebar.php:4
+msgid "ThemeHunk Premium Plugins"
+msgstr ""
+
+#: admin/themehunk-menu/th-option/sidebar.php:7
+msgid ""
+"If you like the free version of this plugin, you will LOVE the full version "
+"of plugin which includes numerous  Advanced features, Custom Style and more "
+"useful options to customize your plugins."
+msgstr ""
+
+#: admin/themehunk-menu/th-option/sidebar.php:8
+msgid "Upgrade To Premium Plugin"
+msgstr ""
+
+#: admin/themehunk-menu/th-option/sidebar.php:13
+msgid "Why Upgrade?"
+msgstr ""
+
+#: admin/themehunk-menu/th-option/sidebar.php:14
+msgid ""
+"Upgrading to Premium plugins you will unlock a dozen of unique features that "
+"will take your website to the next level."
+msgstr ""
+
+#: admin/themehunk-menu/th-option/sidebar.php:15
+msgid "View Premium Plugins"
+msgstr ""
+
+#: admin/themehunk-menu/th-option/sidebar.php:29
+msgid "Video Tutorials"
+msgstr ""
+
+#: admin/themehunk-menu/th-option/sidebar.php:30
+msgid ""
+"Want a guide? We have video tutorials to walk you through getting started."
+msgstr ""
+
+#: admin/themehunk-menu/th-option/sidebar.php:31
+msgid "Watch Videos"
+msgstr ""
+
+#: admin/themehunk-menu/th-option/sidebar.php:36
+msgid "Support"
+msgstr ""
+
+#: admin/themehunk-menu/th-option/sidebar.php:37
+msgid ""
+"Have a question, we are happy to help! Get in touch with our support team."
+msgstr ""
+
+#: admin/themehunk-menu/th-option/sidebar.php:38
+msgid "Submit a Ticket"
+msgstr ""
+
+#: notice/th-notice.php:52
+msgid "TH Product Compare Pro"
+msgstr ""
+
+#: notice/th-notice.php:55
+msgid ""
+"Let's remove users confusion & help them to choose the correct product. Make "
+"product selection easy & advanced, using Compare Pro."
+msgstr ""
+
+#: notice/th-notice.php:56
+msgid ""
+"Filter Similarities and Differences in Compare table for fast and easy "
+"comparison. You can show Custom and Global Attributes in the Compare table "
+"and order them in your desired order."
+msgstr ""
+
+#: notice/th-notice.php:58
+msgid "Upgrade To Pro"
+msgstr ""

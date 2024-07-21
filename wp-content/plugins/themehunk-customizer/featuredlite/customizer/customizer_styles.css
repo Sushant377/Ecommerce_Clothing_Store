@@ -1,0 +1,47 @@
+#widget-customizer-control-templates, .control-section.control-section-sidebar, .customize-control-sidebar_widgets .hide-if-js, .customize-control-sidebar_widgets label, .customize-control-widget_form .widget-control-save{
+display:block;
+}
+
+a.novel-docs-to-pro-button {
+	background: rgba(0, 128, 0, 0.75);
+	padding: 5px;
+	border-radius: 2px;
+	color: #fff;
+	position: relative;
+	top: 7px;
+}
+strong.panel-title.site-title {
+    margin-bottom: 10px;
+}
+/***Section drag and drop feature***/
+#customize-control-home_sorting{
+	margin-top:20px;
+}
+#customize-control-home_sorting .customize-control-title{
+	margin-bottom:10px
+}
+ul#sortable li {
+	padding: 7px;
+	margin-bottom:15px;
+	box-shadow: 0 0 1px #7B7A7A;
+	cursor: move;
+	background: #fff;
+}
+ul#sortable li label{
+	cursor:move;
+}
+.ui-sortable-placeholder{
+	border: 2px dashed #00a0d2;
+	box-shadow:  none!important;
+	min-height:20px;
+}
+
+.widget-content label {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: block;
+}
+
+.widget-control-actions {
+    margin-top: 15px;
+}

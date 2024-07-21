@@ -1,0 +1,84 @@
+.th-product-compare-wrap {
+  .setting_ {
+    display: flex;
+    justify-content: space-between;
+
+    .field-to-show {
+      // box-shadow: 0px 0px 8px 0px #d0eaf5;
+      flex: 1;
+
+      > div {
+        display: flex;
+        flex-direction: column;
+        grid-gap: 20px;
+
+        .row_ {
+          display: flex;
+
+          > div {
+            flex: 1;
+          }
+        }
+      }
+
+      .th-compare-field-wrap {
+        display: flex;
+        flex-direction: column;
+        grid-gap: 15px;
+      }
+    }
+  }
+}
+
+.th-compare-radio {
+  padding-left: 5px;
+
+  label {
+    position: relative;
+    display: flex;
+    align-items: center;
+    padding-left: 25px;
+    // text-transform: capitalize;
+
+    &:before {
+      content: "";
+      font-family: "dashicons";
+      transition: 0.3s all ease;
+      z-index: 10;
+      position: absolute;
+      left: 0;
+      top: 50%;
+      transform: translateY(-50%) scale(0);
+    }
+
+    &:after {
+      content: "";
+      position: absolute;
+      height: 16px;
+      width: 16px;
+      border: 1px solid grey;
+      left: -2px;
+      top: 50%;
+      border-radius: 3px;
+      transform: translateY(-50%);
+    }
+  }
+
+  input {
+    display: none;
+
+    &:checked + {
+      label {
+        &:before {
+          transform: translateY(-50%) scale(1);
+          color: white;
+        }
+
+        &:after {
+          border-color: #2a76c2;
+          background-color: #2a76c2;
+        }
+      }
+    }
+  }
+}

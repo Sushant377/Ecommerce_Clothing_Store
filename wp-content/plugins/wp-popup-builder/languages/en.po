@@ -1,0 +1,883 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-02-08 16:02+0530\n"
+"PO-Revision-Date: 2022-02-08 16:03+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/ajax.php:71
+msgid "Plugin Successfully Activated"
+msgstr ""
+
+#: admin/db.php:422
+msgid "No Form Found"
+msgstr ""
+
+#: admin/inc.php:34
+msgid "Wp Popup Builder Role"
+msgstr ""
+
+#: admin/inc.php:43
+msgid "Wp Popup Builder"
+msgstr ""
+
+#: inc/editor-panel.php:6
+msgid "Activate Lead Form"
+msgstr ""
+
+#: inc/editor-panel.php:8
+msgid "Install Lead Form"
+msgstr ""
+
+#: inc/editor-panel.php:15
+msgid "Real Time Editor"
+msgstr ""
+
+#: inc/editor-panel.php:20
+msgid "Export Popup"
+msgstr ""
+
+#: inc/editor-panel.php:22
+msgid "Popup Name"
+msgstr ""
+
+#: inc/editor-panel.php:26
+msgid "Drag & Drop Module"
+msgstr ""
+
+#: inc/editor-panel.php:32
+msgid "T"
+msgstr ""
+
+#: inc/editor-panel.php:32
+msgid "Text"
+msgstr ""
+
+#: inc/editor-panel.php:33
+msgid "H"
+msgstr ""
+
+#: inc/editor-panel.php:33
+msgid "Heading"
+msgstr ""
+
+#: inc/editor-panel.php:34
+msgid "Button"
+msgstr ""
+
+#: inc/editor-panel.php:35
+msgid "Image"
+msgstr ""
+
+#: inc/editor-panel.php:36 inc/editor-panel.php:307
+msgid "Form"
+msgstr ""
+
+#: inc/editor-panel.php:37
+msgid "Spacer"
+msgstr ""
+
+#: inc/editor-panel.php:40
+msgid "Short Code"
+msgstr ""
+
+#: inc/editor-panel.php:42
+msgid "Icon List"
+msgstr ""
+
+#: inc/editor-panel.php:43
+msgid "Icon"
+msgstr ""
+
+#: inc/editor-panel.php:44
+msgid "Lottie"
+msgstr ""
+
+#: inc/editor-panel.php:45
+msgid "Section"
+msgstr ""
+
+#: inc/editor-panel.php:46
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/editor-panel.php:47
+msgid "Mail Chimp"
+msgstr ""
+
+#: inc/editor-panel.php:48
+msgid "Video"
+msgstr ""
+
+#: inc/editor-panel.php:55
+msgid "Global Setting"
+msgstr ""
+
+#: inc/editor-panel.php:59
+msgid "Popup Background Setting"
+msgstr ""
+
+#: inc/editor-panel.php:60
+msgid "Background Image"
+msgstr ""
+
+#: inc/editor-panel.php:70
+msgid "Background Position"
+msgstr ""
+
+#: inc/editor-panel.php:110
+msgid "Background Size"
+msgstr ""
+
+#: inc/editor-panel.php:112
+msgid "Auto"
+msgstr ""
+
+#: inc/editor-panel.php:112
+msgid "Contain"
+msgstr ""
+
+#: inc/editor-panel.php:112
+msgid "Cover"
+msgstr ""
+
+#: inc/editor-panel.php:120 inc/editor-panel.php:182 inc/editor-panel.php:225
+#: inc/editor-panel.php:317 inc/editor-panel.php:349 inc/editor-panel.php:357
+msgid "Background Color"
+msgstr ""
+
+#: inc/editor-panel.php:121
+msgid "Outside Color"
+msgstr ""
+
+#: inc/editor-panel.php:122
+msgid "Popup Dimension"
+msgstr ""
+
+#: inc/editor-panel.php:123
+msgid "Width(<small>px</small>)"
+msgstr ""
+
+#: inc/editor-panel.php:124
+msgid "Height(<small>custom</small>)"
+msgstr ""
+
+#: inc/editor-panel.php:127 inc/editor-panel.php:205 inc/editor-panel.php:351
+msgid "Height(<small>px</small>)"
+msgstr ""
+
+#: inc/editor-panel.php:130
+msgid "Column Width"
+msgstr ""
+
+#: inc/editor-panel.php:132
+msgid "Column One %"
+msgstr ""
+
+#: inc/editor-panel.php:133
+msgid "Column Two %"
+msgstr ""
+
+#: inc/editor-panel.php:141 inc/editor-panel.php:368
+msgid "Padding(<small>px</small>)"
+msgstr ""
+
+#: inc/editor-panel.php:148
+msgid "Close Button Setting"
+msgstr ""
+
+#: inc/editor-panel.php:152
+msgid "Close Popup By Click"
+msgstr ""
+
+#: inc/editor-panel.php:154
+msgid "Click On Icon"
+msgstr ""
+
+#: inc/editor-panel.php:154
+msgid "Click On Icon and Outside"
+msgstr ""
+
+#: inc/editor-panel.php:154
+msgid "Click On Outside"
+msgstr ""
+
+#: inc/editor-panel.php:160 inc/editor-panel.php:197
+msgid "Style"
+msgstr ""
+
+#: inc/editor-panel.php:161 inc/editor-panel.php:244
+msgid "Alignment"
+msgstr ""
+
+#: inc/editor-panel.php:168
+msgid "Button Margin"
+msgstr ""
+
+#: inc/editor-panel.php:172
+msgid "Top"
+msgstr ""
+
+#: inc/editor-panel.php:173
+msgid "Right"
+msgstr ""
+
+#: inc/editor-panel.php:174
+msgid "Icon Padding in px"
+msgstr ""
+
+#: inc/editor-panel.php:180
+msgid "Icon Style"
+msgstr ""
+
+#: inc/editor-panel.php:181 inc/editor-panel.php:328 inc/editor-panel.php:335
+#: inc/editor-panel.php:341 inc/editor-panel.php:348 inc/editor-panel.php:356
+msgid "Color"
+msgstr ""
+
+#: inc/editor-panel.php:183 inc/editor-panel.php:226 inc/editor-panel.php:329
+#: inc/editor-panel.php:336 inc/editor-panel.php:342 inc/editor-panel.php:350
+#: inc/editor-panel.php:358
+msgid "Font Size(<small>px</small>)"
+msgstr ""
+
+#: inc/editor-panel.php:196
+msgid "Content"
+msgstr ""
+
+#: inc/editor-panel.php:210
+msgid "Choose Image"
+msgstr ""
+
+#: inc/editor-panel.php:219 inc/popups-page.php:49
+msgid "Title"
+msgstr ""
+
+#: inc/editor-panel.php:224
+msgid "Text Color"
+msgstr ""
+
+#: inc/editor-panel.php:227
+msgid "Letter Spacing(<small>px</small>)"
+msgstr ""
+
+#: inc/editor-panel.php:228
+msgid "Line Height(<small>px</small>)"
+msgstr ""
+
+#: inc/editor-panel.php:230
+msgid "Link"
+msgstr ""
+
+#: inc/editor-panel.php:238
+msgid "Another Tab"
+msgstr ""
+
+#: inc/editor-panel.php:251 inc/editor-panel.php:392
+msgid "Width(<small>%</small>)"
+msgstr ""
+
+#: inc/editor-panel.php:252
+msgid "Container Alignment"
+msgstr ""
+
+#: inc/editor-panel.php:257 inc/editor-panel.php:362
+msgid "Font Weight"
+msgstr ""
+
+#: inc/editor-panel.php:264
+msgid "Margin in px"
+msgstr ""
+
+#: inc/editor-panel.php:265
+msgid "Padding in px"
+msgstr ""
+
+#: inc/editor-panel.php:276
+msgid "Delete Popup"
+msgstr ""
+
+#: inc/editor-panel.php:282
+msgid "Activate"
+msgstr ""
+
+#: inc/editor-panel.php:290
+msgid "Lead Form"
+msgstr ""
+
+#: inc/editor-panel.php:294
+msgid "Choose Lead Form"
+msgstr ""
+
+#: inc/editor-panel.php:300
+msgid "Select Form"
+msgstr ""
+
+#: inc/editor-panel.php:308
+msgid "Form Content"
+msgstr ""
+
+#: inc/editor-panel.php:314
+msgid "Form Setting"
+msgstr ""
+
+#: inc/editor-panel.php:315
+msgid "Form Width(<small>%</small>)"
+msgstr ""
+
+#: inc/editor-panel.php:316
+msgid "Form Centered"
+msgstr ""
+
+#: inc/editor-panel.php:325
+msgid "Heading Setting"
+msgstr ""
+
+#: inc/editor-panel.php:326
+msgid "Heading Enable"
+msgstr ""
+
+#: inc/editor-panel.php:332
+msgid "Label Setting"
+msgstr ""
+
+#: inc/editor-panel.php:333
+msgid "Label Enable"
+msgstr ""
+
+#: inc/editor-panel.php:340
+msgid "Radio Checkbox Field Setting"
+msgstr ""
+
+#: inc/editor-panel.php:343
+msgid "Input Margin(<small>px</small>)"
+msgstr ""
+
+#: inc/editor-panel.php:347
+msgid "Field Setting"
+msgstr ""
+
+#: inc/editor-panel.php:352
+msgid "Field Margin(<small>px</small>)"
+msgstr ""
+
+#: inc/editor-panel.php:355
+msgid "Submit Button Setting"
+msgstr ""
+
+#: inc/editor-panel.php:359
+msgid "Button Alignment"
+msgstr ""
+
+#: inc/editor-panel.php:378
+msgid "Shortcode Configuration"
+msgstr ""
+
+#: inc/editor-panel.php:381
+msgid "Paste Your Shortcode"
+msgstr ""
+
+#: inc/editor-panel.php:391
+msgid "Container Setting"
+msgstr ""
+
+#: inc/editor-panel.php:393
+msgid "Height(<small>%</small>)"
+msgstr ""
+
+#: inc/popup-init.php:131
+msgid "New Popup name"
+msgstr ""
+
+#: inc/popup-init.php:383
+msgid "Border Width(<small>px</small>)"
+msgstr ""
+
+#: inc/popup-init.php:387
+msgid "Border radius(<small>px</small>)"
+msgstr ""
+
+#: inc/popup-init.php:391
+msgid "Border Color"
+msgstr ""
+
+#: inc/popup-init.php:395
+msgid "Border Style"
+msgstr ""
+
+#: inc/popup-init.php:460
+msgid "TOP"
+msgstr ""
+
+#: inc/popup-init.php:461
+msgid "RIGHT"
+msgstr ""
+
+#: inc/popup-init.php:462
+msgid "BOTTOM"
+msgstr ""
+
+#: inc/popup-init.php:463
+msgid "LEFT"
+msgstr ""
+
+#: inc/popup-shortcode-tab.php:44
+msgid "Title : "
+msgstr ""
+
+#: inc/popup-shortcode-tab.php:45
+msgid "Box Modal Name "
+msgstr ""
+
+#: inc/popup-shortcode-tab.php:49
+msgid "Status : "
+msgstr ""
+
+#: inc/popup-shortcode-tab.php:53 inc/popup-shortcode-tab.php:171
+msgid "Save"
+msgstr ""
+
+#: inc/popup-shortcode-tab.php:61
+msgid "Popup Display Option"
+msgstr ""
+
+#: inc/popup-shortcode-tab.php:62
+msgid ""
+"Choose option to display popup at Whole Website (Includes all page, post, "
+"product etc), At Homepage only or at some selected page and post. You can "
+"also use a shortcode to display popup in the area which supports the "
+"shortcode."
+msgstr ""
+
+#: inc/popup-shortcode-tab.php:67
+msgid "Whole Site"
+msgstr ""
+
+#: inc/popup-shortcode-tab.php:71
+msgid "Home Page"
+msgstr ""
+
+#: inc/popup-shortcode-tab.php:75
+msgid "Selected Pages"
+msgstr ""
+
+#: inc/popup-shortcode-tab.php:80
+msgid "Shortcode"
+msgstr ""
+
+#: inc/popup-shortcode-tab.php:89
+msgid "Choose Popup Display Device"
+msgstr ""
+
+#: inc/popup-shortcode-tab.php:90
+msgid ""
+"Here you can choose the device at which you want to display popup. Choose "
+"\"All devices\" to display popup at PC, Laptop and all small devices. And "
+"choose \"Desktop\" If you don't want to display popup at small mobile "
+"devices."
+msgstr ""
+
+#: inc/popup-shortcode-tab.php:95
+msgid "All Device"
+msgstr ""
+
+#: inc/popup-shortcode-tab.php:99
+msgid "Desktop"
+msgstr ""
+
+#: inc/popup-shortcode-tab.php:103
+msgid "Mobile"
+msgstr ""
+
+#: inc/popup-shortcode-tab.php:112 inc/wppb-pro-popup.php:44
+msgid "Popup Trigger"
+msgstr ""
+
+#: inc/popup-shortcode-tab.php:113
+msgid "This option allows you to choose when you want to trigger popup."
+msgstr ""
+
+#: inc/popup-shortcode-tab.php:118
+msgid "Page Load"
+msgstr ""
+
+#: inc/popup-shortcode-tab.php:122
+msgid "On Click"
+msgstr ""
+
+#: inc/popup-shortcode-tab.php:126
+msgid "Page Scroll"
+msgstr ""
+
+#: inc/popup-shortcode-tab.php:130
+msgid "Exit Window"
+msgstr ""
+
+#: inc/popup-shortcode-tab.php:137
+msgid "Page Load : Set Popup Trigger Time."
+msgstr ""
+
+#: inc/popup-shortcode-tab.php:138
+msgid ""
+"Select \"Page Load\" to trigger popup at each time page load. You can also "
+"set a popup trigger delay."
+msgstr ""
+
+#: inc/popup-shortcode-tab.php:142
+msgid "Time Spent After Appear Popup In Second"
+msgstr ""
+
+#: inc/popup-shortcode-tab.php:150
+msgid "Frequency"
+msgstr ""
+
+#: inc/popup-shortcode-tab.php:154
+msgid "Every Time Site Reload."
+msgstr ""
+
+#: inc/popup-shortcode-tab.php:159
+msgid "One Time Show On Visit Page."
+msgstr ""
+
+#: inc/popup-shortcode-tab.php:163
+msgid "How Much Time After Show Popup."
+msgstr ""
+
+#: inc/popup.php:30
+msgid "Update"
+msgstr ""
+
+#: inc/popup.php:31
+msgid "Delete"
+msgstr ""
+
+#: inc/popup.php:60
+msgid "Preview"
+msgstr ""
+
+#: inc/popup.php:68 inc/popups-page.php:21
+msgid "Popup Will Delete Permanentally."
+msgstr ""
+
+#: inc/popup.php:71 inc/popups-page.php:24
+msgid "No"
+msgstr ""
+
+#: inc/popup.php:72 inc/popups-page.php:25
+msgid "Yes"
+msgstr ""
+
+#: inc/popup.php:81
+msgid "Back"
+msgstr ""
+
+#: inc/popup.php:85
+msgid "Edit Popup"
+msgstr ""
+
+#: inc/popup.php:89 inc/popups-page.php:54
+msgid "Setting"
+msgstr ""
+
+#: inc/popups-page.php:36
+msgid "View Popup List"
+msgstr ""
+
+#: inc/popups-page.php:37
+msgid "Free To Pro"
+msgstr ""
+
+#: inc/popups-page.php:38
+msgid "Help & Useful Plugins"
+msgstr ""
+
+#: inc/popups-page.php:43
+msgid "WP Builder Popup"
+msgstr ""
+
+#: inc/popups-page.php:44
+msgid "Add New Popup"
+msgstr ""
+
+#: inc/popups-page.php:50
+msgid "Status"
+msgstr ""
+
+#: inc/popups-page.php:51
+msgid "Device"
+msgstr ""
+
+#: inc/popups-page.php:52
+msgid "View"
+msgstr ""
+
+#: inc/popups-page.php:53
+msgid "Action"
+msgstr ""
+
+#: inc/popups-page.php:60
+msgid "No Popup Found. Click Add New Popup To Create Popup. "
+msgstr ""
+
+#: inc/prebuilt-popup.php:27
+msgid "Prebuilt Popup"
+msgstr ""
+
+#: inc/prebuilt-popup.php:28
+msgid "Choose Layout"
+msgstr ""
+
+#: inc/prebuilt-popup.php:31 inc/prebuilt-popup.php:359
+msgid "NEXT"
+msgstr ""
+
+#: inc/prebuilt-popup.php:37
+msgid "Enter Popup Name"
+msgstr ""
+
+#: inc/prebuilt-popup.php:60
+msgid "Add Your Business Heading"
+msgstr ""
+
+#: inc/prebuilt-popup.php:65
+msgid "Add your business sub heading"
+msgstr ""
+
+#: inc/prebuilt-popup.php:76
+msgid "Small Business: Pop-Up Shop Ticket, Sat, Apr 25 2020"
+msgstr ""
+
+#: inc/prebuilt-popup.php:81
+msgid "Book Ticket"
+msgstr ""
+
+#: inc/prebuilt-popup.php:107 inc/prebuilt-popup.php:128
+#, php-format
+msgid "Do you want 25% off  your first order ?"
+msgstr ""
+
+#: inc/prebuilt-popup.php:110 inc/prebuilt-popup.php:131
+msgid "GET EXCLUSIVE CODE"
+msgstr ""
+
+#: inc/prebuilt-popup.php:209
+msgid "Free Popup"
+msgstr ""
+
+#: inc/prebuilt-popup.php:210
+msgid "Premium Popup"
+msgstr ""
+
+#: inc/wppb-help.php:4
+msgid "Popup Help"
+msgstr ""
+
+#: inc/wppb-help.php:5 inc/wppb-help.php:7
+msgid "For any type of difficulty please check plugin documentation"
+msgstr ""
+
+#: inc/wppb-help.php:6 wp-popup-builder.php:70
+msgid "Documentation"
+msgstr ""
+
+#: inc/wppb-help.php:8
+msgid "Support Forum"
+msgstr ""
+
+#: inc/wppb-help.php:9
+msgid "Review Us"
+msgstr ""
+
+#: inc/wppb-help.php:12
+msgid "Themehunk Useful Plugins"
+msgstr ""
+
+#: inc/wppb-help.php:22
+msgid "Lead Form Builder"
+msgstr ""
+
+#: inc/wppb-help.php:26 inc/wppb-help.php:44 inc/wppb-help.php:62
+#: inc/wppb-help.php:80 inc/wppb-help.php:98
+msgid "Free Download"
+msgstr ""
+
+#: inc/wppb-help.php:27 inc/wppb-help.php:45 inc/wppb-help.php:63
+#: inc/wppb-help.php:81 inc/wppb-help.php:99
+msgid "Buy Now"
+msgstr ""
+
+#: inc/wppb-help.php:40
+msgid "TH Advance Search"
+msgstr ""
+
+#: inc/wppb-help.php:58
+msgid "TH All in One Woo Cart"
+msgstr ""
+
+#: inc/wppb-help.php:76
+msgid "TH Variation Swatches"
+msgstr ""
+
+#: inc/wppb-help.php:94
+msgid "Th Product Compare"
+msgstr ""
+
+#: inc/wppb-pro-popup.php:3
+msgid "Build Best Popup With Wp Popup Builder Pro !"
+msgstr ""
+
+#: inc/wppb-pro-popup.php:4 inc/wppb-pro-popup.php:66
+msgid "Buy Now - 49$"
+msgstr ""
+
+#: inc/wppb-pro-popup.php:7
+msgid ""
+"Generate more leads means more clients, just take your forms to next level"
+msgstr ""
+
+#: inc/wppb-pro-popup.php:8
+msgid "Join our over 5,000+ users!"
+msgstr ""
+
+#: inc/wppb-pro-popup.php:9
+msgid "Powerful Advanced Features"
+msgstr ""
+
+#: inc/wppb-pro-popup.php:14
+msgid "Icon Module"
+msgstr ""
+
+#: inc/wppb-pro-popup.php:18
+msgid "Add Multiple Section"
+msgstr ""
+
+#: inc/wppb-pro-popup.php:22
+msgid "Add Icon List"
+msgstr ""
+
+#: inc/wppb-pro-popup.php:27
+msgid "Popup Display Options"
+msgstr ""
+
+#: inc/wppb-pro-popup.php:28
+msgid ""
+"Display popup according to your need, This options allow you to display "
+"popup at Home, All and at Selected. Using shortcode popup can be displayed "
+"at all shortcode supported areas."
+msgstr ""
+
+#: inc/wppb-pro-popup.php:37
+msgid "Popup Responsive Options"
+msgstr ""
+
+#: inc/wppb-pro-popup.php:38
+msgid ""
+"This option allow you to choose whether you want to display popup in small "
+"devices or not."
+msgstr ""
+
+#: inc/wppb-pro-popup.php:39
+msgid "Display on All Devices"
+msgstr ""
+
+#: inc/wppb-pro-popup.php:40
+msgid "Display on Desktop"
+msgstr ""
+
+#: inc/wppb-pro-popup.php:41
+msgid "Display on Mobile"
+msgstr ""
+
+#: inc/wppb-pro-popup.php:45
+#, php-format
+msgid "This option provide 100% control over popup."
+msgstr ""
+
+#: inc/wppb-pro-popup.php:46
+msgid "Display on Page Load"
+msgstr ""
+
+#: inc/wppb-pro-popup.php:47
+msgid "Display on Click"
+msgstr ""
+
+#: inc/wppb-pro-popup.php:48
+msgid "Display on Page Scroll"
+msgstr ""
+
+#: inc/wppb-pro-popup.php:49
+msgid "Display on Page Exit"
+msgstr ""
+
+#: inc/wppb-pro-popup.php:58
+msgid "Popup Frequency"
+msgstr ""
+
+#: inc/wppb-pro-popup.php:59
+msgid "This option decide how frequently you want to display popup. "
+msgstr ""
+
+#: inc/wppb-pro-popup.php:60
+msgid "Every time Page Load"
+msgstr ""
+
+#: inc/wppb-pro-popup.php:61
+msgid "Display Popup Only Once"
+msgstr ""
+
+#: inc/wppb-pro-popup.php:62
+msgid "Display Popup on Time Interval"
+msgstr ""
+
+#: js/color/pickr.es5.min.js:2
+msgid "values"
+msgstr ""
+
+#: js/color/pickr.es5.min.js:2
+msgid "keys"
+msgstr ""
+
+#: js/color/pickr.es5.min.js:2
+msgid "entries"
+msgstr ""
+
+#: notify/notify-html.php:13
+msgid "Amaz Store - Free Shopping WordPress Theme"
+msgstr ""
+
+#: notify/notify-html.php:16
+msgid ""
+"Amaz Store is a Free WooCommerce theme for creating clean online stores for "
+"your business. Ready to import pre made demos which makes your web designing "
+"more easy."
+msgstr ""
+
+#: notify/notify-html.php:22 wp-popup-builder.php:68
+msgid "Live Demo"
+msgstr ""
+
+#: notify/notify-html.php:28
+msgid "Know More"
+msgstr ""
+
+#: wp-popup-builder.php:43
+msgid "Settings"
+msgstr ""
+
+#: wp-popup-builder.php:72
+msgid "Support"
+msgstr ""
+
+#: wp-popup-builder.php:74
+msgid "Premium Version"
+msgstr ""

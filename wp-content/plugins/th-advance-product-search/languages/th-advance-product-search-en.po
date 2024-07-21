@@ -1,0 +1,508 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TH Advance Product Search\n"
+"POT-Creation-Date: 2021-09-02 18:23+0530\n"
+"PO-Revision-Date: 2021-09-02 18:23+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: th-advanced-product-search.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/thaps-function.php:352
+msgid "Category"
+msgstr ""
+
+#: inc/thaps-function.php:354 inc/thaps-option-setting.php:138
+#: inc/thaps-option-setting.php:219
+msgid "Product"
+msgstr ""
+
+#: inc/thaps-function.php:362 inc/thaps-option-setting.php:137
+#: inc/thaps-option-setting.php:263
+msgid "Post"
+msgstr ""
+
+#: inc/thaps-function.php:370 inc/thaps-option-setting.php:287
+msgid "Pages"
+msgstr ""
+
+#: inc/thaps-nav-menu.php:73
+msgid "TH Advance Search bar"
+msgstr ""
+
+#: inc/thaps-nav-menu.php:92
+msgid "Layout"
+msgstr ""
+
+#: inc/thaps-nav-menu.php:109 inc/widget.php:54
+msgid "Default"
+msgstr ""
+
+#: inc/thaps-nav-menu.php:110 inc/widget.php:55
+msgid "Search bar only"
+msgstr ""
+
+#: inc/thaps-nav-menu.php:111 inc/widget.php:56
+msgid "Search Icon only"
+msgstr ""
+
+#: inc/thaps-nav-menu.php:112 inc/widget.php:57
+msgid "Icon on mobile, search bar on desktop"
+msgstr ""
+
+#: inc/thaps-nav-menu.php:167
+msgid "Add TH advance search as a menu item."
+msgstr ""
+
+#: inc/thaps-nav-menu.php:173
+msgid "TH advance search bar"
+msgstr ""
+
+#: inc/thaps-nav-menu.php:183 inc/thaps-nav-menu.php:184
+msgid "Add to menu"
+msgstr ""
+
+#: inc/thaps-nav-menu.php:196
+msgid "TH Advance Search bar will be displayed here."
+msgstr ""
+
+#: inc/thaps-nav-menu.php:251
+msgid "Search bar"
+msgstr ""
+
+#: inc/thaps-option-setting.php:34
+msgid "Integration"
+msgstr ""
+
+#: inc/thaps-option-setting.php:37
+msgid "How to add search bar in your theme?"
+msgstr ""
+
+#: inc/thaps-option-setting.php:43 inc/thaps-option-setting.php:431
+msgid "How To Add"
+msgstr ""
+
+#: inc/thaps-option-setting.php:52
+msgid "Basic Setting"
+msgstr ""
+
+#: inc/thaps-option-setting.php:55
+msgid "Basic"
+msgstr ""
+
+#: inc/thaps-option-setting.php:61
+msgid "Minimum Character"
+msgstr ""
+
+#: inc/thaps-option-setting.php:63
+msgid ""
+"Min characters to show autocomplete, Search start showing the results after "
+"the minimum character value you set here"
+msgstr ""
+
+#: inc/thaps-option-setting.php:71
+msgid "Max Width"
+msgstr ""
+
+#: inc/thaps-option-setting.php:73
+msgid "It's a search bar width. Leave field empty to set 100% width."
+msgstr ""
+
+#: inc/thaps-option-setting.php:82
+msgid "Enable Submit Button"
+msgstr ""
+
+#: inc/thaps-option-setting.php:83
+msgid "Uncheck to disable submit button and to enable search icon"
+msgstr ""
+
+#: inc/thaps-option-setting.php:90
+msgid "Submit Button Lebel"
+msgstr ""
+
+#: inc/thaps-option-setting.php:91
+msgid "Submit"
+msgstr ""
+
+#: inc/thaps-option-setting.php:97
+msgid "Placeholder Text"
+msgstr ""
+
+#: inc/thaps-option-setting.php:98
+msgid "Product Search"
+msgstr ""
+
+#: inc/thaps-option-setting.php:105 inc/thaps-option-setting.php:111
+msgid "Loader"
+msgstr ""
+
+#: inc/thaps-option-setting.php:112
+msgid "Check to disable loader"
+msgstr ""
+
+#: inc/thaps-option-setting.php:124
+msgid "Advance Setting"
+msgstr ""
+
+#: inc/thaps-option-setting.php:127
+msgid "Search Autocomplete Settings"
+msgstr ""
+
+#: inc/thaps-option-setting.php:134
+msgid "Select Search Type"
+msgstr ""
+
+#: inc/thaps-option-setting.php:139
+msgid "Page"
+msgstr ""
+
+#: inc/thaps-option-setting.php:141
+msgid ""
+"This setting define what you want to search, For example if you select "
+"\"Product\" then search will display olny products in search result."
+msgstr ""
+
+#: inc/thaps-option-setting.php:147
+msgid "Limit"
+msgstr ""
+
+#: inc/thaps-option-setting.php:149
+msgid "Show Search Result"
+msgstr ""
+
+#: inc/thaps-option-setting.php:157
+msgid "No Result Label"
+msgstr ""
+
+#: inc/thaps-option-setting.php:158 inc/thaps-option-setting.php:166
+msgid "This text will display at the search result dropdown."
+msgstr ""
+
+#: inc/thaps-option-setting.php:159
+msgid "No Result Found"
+msgstr ""
+
+#: inc/thaps-option-setting.php:165
+msgid "More Result Label"
+msgstr ""
+
+#: inc/thaps-option-setting.php:167
+msgid "See More Product.."
+msgstr ""
+
+#: inc/thaps-option-setting.php:173
+msgid "Enable Group Heading"
+msgstr ""
+
+#: inc/thaps-option-setting.php:175
+msgid "It's a main heading, Display in the search result dropdown."
+msgstr ""
+
+#: inc/thaps-option-setting.php:182
+msgid "Description Length"
+msgstr ""
+
+#: inc/thaps-option-setting.php:184
+msgid ""
+"This option limit searched item description length. Count value in words."
+msgstr ""
+
+#: inc/thaps-option-setting.php:194
+msgid "Search Category"
+msgstr ""
+
+#: inc/thaps-option-setting.php:200
+msgid "Show Category"
+msgstr ""
+
+#: inc/thaps-option-setting.php:201
+msgid "Check to display categories in the search result dropdown."
+msgstr ""
+
+#: inc/thaps-option-setting.php:207
+msgid "Enable Category Image"
+msgstr ""
+
+#: inc/thaps-option-setting.php:225
+msgid "Enable Product Image"
+msgstr ""
+
+#: inc/thaps-option-setting.php:232
+msgid "Enable Product price"
+msgstr ""
+
+#: inc/thaps-option-setting.php:239
+msgid "Enable Product Description"
+msgstr ""
+
+#: inc/thaps-option-setting.php:246
+msgid "Enable Product SKU"
+msgstr ""
+
+#: inc/thaps-option-setting.php:253
+msgid "Exclude Product"
+msgstr ""
+
+#: inc/thaps-option-setting.php:254
+msgid "Exclude Product by SKU ID seperated by \" , \""
+msgstr ""
+
+#: inc/thaps-option-setting.php:269
+msgid "Enable Post Image"
+msgstr ""
+
+#: inc/thaps-option-setting.php:277
+msgid "Enable Post Description"
+msgstr ""
+
+#: inc/thaps-option-setting.php:293
+msgid "Enable Page Image"
+msgstr ""
+
+#: inc/thaps-option-setting.php:301
+msgid "Enable Page Description"
+msgstr ""
+
+#: inc/thaps-option-setting.php:315
+msgid "Style"
+msgstr ""
+
+#: inc/thaps-option-setting.php:318
+msgid "Search Bar"
+msgstr ""
+
+#: inc/thaps-option-setting.php:324
+msgid "Bar Background Color"
+msgstr ""
+
+#: inc/thaps-option-setting.php:330 inc/thaps-option-setting.php:391
+msgid "Border Color"
+msgstr ""
+
+#: inc/thaps-option-setting.php:336
+msgid "Placeholder Color"
+msgstr ""
+
+#: inc/thaps-option-setting.php:342
+msgid "Submit Button BG Color "
+msgstr ""
+
+#: inc/thaps-option-setting.php:348
+msgid "Submit Button Text Color"
+msgstr ""
+
+#: inc/thaps-option-setting.php:354
+msgid "Submit Button BG Hover Color"
+msgstr ""
+
+#: inc/thaps-option-setting.php:360
+msgid "Submit Button Text Hover Color"
+msgstr ""
+
+#: inc/thaps-option-setting.php:367
+msgid "Suggestion Box"
+msgstr ""
+
+#: inc/thaps-option-setting.php:373
+msgid "Background Color"
+msgstr ""
+
+#: inc/thaps-option-setting.php:379
+msgid "Highlight Color"
+msgstr ""
+
+#: inc/thaps-option-setting.php:385
+msgid "Selected Color"
+msgstr ""
+
+#: inc/thaps-option-setting.php:397
+msgid "Group Title Color"
+msgstr ""
+
+#: inc/thaps-option-setting.php:403
+msgid "Title Color"
+msgstr ""
+
+#: inc/thaps-option-setting.php:410
+msgid "Text Color"
+msgstr ""
+
+#: inc/thaps-option-setting.php:422
+msgid "Search Analytics"
+msgstr ""
+
+#: inc/thaps-option-setting.php:425
+msgid "How to add search Analytics in your theme?"
+msgstr ""
+
+#: inc/thaps-search-from.php:35 inc/thaps-search-from.php:81
+#: inc/thaps-search-from.php:114 inc/thaps-search-from.php:152
+#: inc/thaps-search-from.php:178
+msgctxt "label"
+msgid "Search"
+msgstr ""
+
+#: inc/thaps-search-from.php:47
+msgctxt "submit button"
+msgid "Submit"
+msgstr ""
+
+#: inc/thaps-settings.php:35
+msgid "Th Advance Product Search"
+msgstr ""
+
+#: inc/thaps-settings.php:36
+msgid "TH Search"
+msgstr ""
+
+#: inc/thaps-settings.php:63
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: inc/thaps-settings.php:102
+msgid "Are you sure to reset current settings?"
+msgstr ""
+
+#: inc/thaps-settings.php:102
+msgid "Reset all"
+msgstr ""
+
+#: inc/thaps-settings.php:104
+msgid "Save Changes"
+msgstr ""
+
+#: inc/thaps-settings.php:111
+msgid "Documentation"
+msgstr ""
+
+#: inc/thaps-settings.php:111
+msgid "Read Documentation"
+msgstr ""
+
+#: inc/thaps-settings.php:113 th-advanced-product-search.php:68
+msgid "Go Pro"
+msgstr ""
+
+#: inc/thaps-settings.php:113
+msgid "Buy Now"
+msgstr ""
+
+#: inc/thaps-settings.php:113
+msgid "Know More"
+msgstr ""
+
+#: inc/thaps-settings.php:440
+msgid "Choose File"
+msgstr ""
+
+#: inc/thaps-settings.php:472
+msgid "Easy 4 ways to integrate and display search bar your theme"
+msgstr ""
+
+#: inc/thaps-settings.php:474
+#, php-format
+msgid "Using Shortcode - <br /> <br />%s    "
+msgstr ""
+
+#: inc/thaps-settings.php:476
+#, php-format
+msgid ""
+"Using Widgets - Go to the Appearance > %s and choose \"TH Advance Search "
+"Widget\" <br /> <br /> <img src=\""
+msgstr ""
+
+#: inc/thaps-settings.php:476
+msgid "Widgets Screen"
+msgstr ""
+
+#: inc/thaps-settings.php:478
+#, php-format
+msgid "Using php - %s"
+msgstr ""
+
+#: inc/thaps-settings.php:480
+#, php-format
+msgid ""
+"Display search bar as a menu. Go to the Appearance > %s . Check \"TH Advance "
+"Search Bar\" and click \"Add to menu\" button. <br /> <br /> <img src=\""
+msgstr ""
+
+#: inc/thaps-settings.php:480
+msgid "Menu Screen"
+msgstr ""
+
+#: inc/thaps-settings.php:492
+msgid ""
+"Enable Site Search module Paste the following code into \"functions.php\" in "
+"your child theme."
+msgstr ""
+
+#: inc/thaps-settings.php:496 inc/thaps-settings.php:505
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/thaps-settings.php:501
+msgid ""
+"To disable integrarion with Google Analytics paste following code "
+"\"functions.php\" your child theme."
+msgstr ""
+
+#: inc/thaps-settings.php:717
+msgid "Choose an Image"
+msgstr ""
+
+#: inc/thaps-settings.php:718
+msgid "Use Image"
+msgstr ""
+
+#: inc/thaps-settings.php:719
+msgid "Add Media"
+msgstr ""
+
+#: inc/widget.php:10
+msgid "TH Advance Search Widget"
+msgstr ""
+
+#: inc/widget.php:52
+msgid "Choose Product Type "
+msgstr ""
+
+#: inc/widget.php:66
+msgid "Title:"
+msgstr ""
+
+#: th-advanced-product-search.php:64
+msgid "Settings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "TH Advance Product Search"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://themehunk.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Beautiful Colors, Images and Buttons Variation Swatches For WooCommerce "
+"Product Attributes"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemeHunk"
+msgstr ""

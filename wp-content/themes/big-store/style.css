@@ -1,0 +1,36 @@
+/*
+Theme Name: Big Store
+Theme URI: https://themehunk.com/product/big-store/
+Author: ThemeHunk
+Author URI: https://www.themehunk.com
+Description: Big Store is an eCommerce WordPress theme specially made for shopping websites. You can create any type of online store website using it. Theme is best suited for Fashion & Clothing store, furniture, grocery, clothing, electronic, gadget store and decorative gifts stores. Theme option panel is so easy to use and theme is also fully responsive to each & every device like Mobile, ipads etc. Some theme features are Tabbed product carousel, Woo Category layouts, Header & Footer combinations, quick view, translation ready, Ajax search, shop with category, Top slider layouts, Product Filter, Product styles, Color & Background options etc. Theme is deeply integrated with WooCommerce plugin to sell your products online.  See demo here: https://themehunk.com/big-store-ecommerce-wordpress-theme/
+Version: 2.0.0
+Requires at least: 5.3
+Tested up to: 6.4
+Requires PHP: 7.0
+License: GNU General Public License v3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
+Text Domain: big-store
+Tags: wide-blocks, block-patterns, block-styles, editor-style, e-commerce, blog, grid-layout, one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, custom-logo, custom-menu, add_editor_style, featured-image-header, featured-images, footer-widgets, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready.
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/        
+@font-face{
+  font-family: 'Roboto-Bold';
+  src: url('third-party/fonts/site-font/Roboto-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face{
+  font-family: 'Roboto-Medium';
+  src: url('third-party/fonts/site-font/Roboto-Medium.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face{
+  font-family: 'Roboto-Regular';
+  src: url('third-party/fonts/site-font/Roboto-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}

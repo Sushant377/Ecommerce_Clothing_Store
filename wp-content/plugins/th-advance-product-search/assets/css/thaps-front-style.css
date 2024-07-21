@@ -1,0 +1,306 @@
+.thaps-search-box{
+max-width:550px;
+}
+.thaps-search-box {
+    position: relative;
+    line-height: 100%;
+    display: block;
+    width: 100%;
+    text-align: left;
+    margin: 0 auto;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    align-items: center;
+    display: flex;
+}
+
+.thaps-search-form{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.thaps-from-wrap{
+display:flex;
+background:#fff;
+border-radius:4px;
+position: relative;
+border: 1px solid;
+border-color:#e7f5ff;
+
+}
+.thaps-search-autocomplete:focus{
+        outline: 0;
+}
+#thaps-search-button {
+background: #111;
+    width: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius:4px;
+    padding: 0;
+    border: 0;
+   margin:0.3rem;
+   color: #fff;
+}
+
+
+#thaps-search-button:hover{
+background:#888;
+}
+.thaps-search-form .thaps-search-autocomplete {
+min-height:35px;
+line-height:35px;
+border:none!important;
+font-size: 14px;
+width: 100%;
+padding: 0.3rem 0.8rem;
+margin: 0;
+border-radius: 4px;
+}
+
+.thaps-autocomplete-suggestions {border: 1px solid #eee; background: #FFF; overflow: auto; }
+.thaps-autocomplete-suggestion { padding: 0.5rem; overflow: hidden;margin:0;}
+.thaps-autocomplete-selected { background: #f0f0f166; }
+.thaps-autocomplete-suggestions strong { font-weight: normal; color: #3399FF; }
+.thaps-autocomplete-group { padding: 0.5rem; }
+.thaps-autocomplete-group strong { display: block; border-bottom: 1px solid #000; 
+}
+.thaps-autocomplete-suggestion { 
+    cursor: pointer;
+}
+
+.thaps-autocomplete-suggestion{
+display:flex;
+}
+
+.thaps-autocomplete-suggestion .thaps-img{
+width:65px;
+ margin-right: 1rem;
+}
+
+.thaps-autocomplete-suggestion .thaps-img img{
+border-radius:3px;
+max-width: 100%;
+}
+
+.thaps-autocomplete-suggestion .thaps-price{
+font-size:0.89rem;
+font-weight:500;
+}
+
+.thaps-suggestion-heading .thaps-title{
+color:#555;
+font-size: .875rem;
+    text-transform: uppercase;
+font-weight:normal;
+}
+.thaps-suggestion-heading{
+border-bottom:1px solid #e7f5ff;
+margin-bottom: 0.5rem;
+pointer-events: none;
+}
+
+.thaps-suggestion-taxonomy-post-cat .thaps-title,.thaps-suggestion-taxonomy-product-cat .thaps-title{
+font-size:0.89rem;
+}
+.thaps-suggestion-taxonomy-product-cat,.thaps-suggestion-taxonomy-post-cat{
+padding: 0.5rem;
+}
+ .thaps-title{
+color:#333;
+font-size:0.89rem;
+font-weight:bold;
+}
+.thaps-suggestion-heading .thaps-title strong{
+color: #555;
+    font-size: .875rem;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+.thaps-suggestion-more strong{
+color: #333;
+    font-size: 1rem;
+    font-weight: bold;
+}
+.thaps-content-wrapp{
+line-height:normal;
+}
+.thaps-price del{
+color:#949494;
+margin-right:0.3rem;
+opacity: 0.5;
+}
+.thaps-price ins{
+text-decoration:none;
+}
+.nonce_result_show{
+opacity:0.5;
+pointer-events: none;
+}
+
+.thaps-preloader{
+height: 100%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 45px;
+    z-index: 1;
+    background:none;
+
+}
+.thaps-loading {
+    height: 0;
+    width: 0;
+    padding: 10px;
+    border: 3px solid #cccccc6e;
+    border-right-color: #8888887a;
+    border-radius: 50%;
+    -webkit-animation: rotate 1s infinite linear;
+    position: absolute;
+    top: 9px;
+    margin-right: 10px;
+}
+
+@-webkit-keyframes rotate {
+  /* 100% keyframe for  clockwise. 
+     use 0% instead for anticlockwise */
+  100% {
+    -webkit-transform: rotate(360deg);
+  }
+}
+
+@keyframes thaps-loading {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.submit-no-active .thaps-from-wrap .th-icon, .bar_style .th-icon,
+.icon_style .thaps-from-wrap .th-icon{
+position:absolute;
+left:0.5rem
+}
+
+.submit-no-active .thaps-from-wrap .th-icon{
+      color: #111;  
+}
+.submit-no-active .thaps-search-autocomplete,.bar_style .thaps-search-autocomplete,.icon_style .thaps-search-autocomplete{
+padding: 0.3rem 0.3rem 0.3rem 2.8rem;
+}
+.submit-no-active .thaps-from-wrap, .bar_style .thaps-from-wrap,.icon_style .thaps-from-wrap{
+    align-items: center;
+}
+.thaps-suggestion-more{
+background:#eee;
+text-align:center;
+margin:0;
+}
+
+.thaps-suggestion-more .thaps-content-wrapp {
+    line-height: normal;
+    text-align: center;
+    width: 100%;
+}
+
+.thaps-suggestion-more .thaps-title{
+font-size:.89rem;
+}
+.thaps-autocomplete-suggestion .thaps-title{
+display:inline-block;
+margin-right: 0.6rem;
+}
+.thaps-autocomplete-suggestion .thaps-price{
+display:block;
+}
+.thaps-sku{
+font-size: 0.8rem;
+    font-weight: 500;
+    color: #555;
+}
+.thaps-desc{
+font-size:0.8rem;
+display:flex;
+}
+
+.thaps-content-wrapp {
+    line-height: normal;
+    display: flex;
+    justify-content: space-between;
+    flex-grow: 2;
+    align-items: center;
+    width: 100%;
+}
+
+.thaps-suggestion-more .thaps-content-wrapp {
+
+    justify-content: center;
+}
+
+.icon_style .thaps-search-form {
+    opacity:0;
+    display:none;
+    position: absolute;
+    left: 0;
+    top: calc(100% + 8px);
+    min-width: 500px;
+    z-index: 1;
+}
+.icon_style.thaps-box-open .thaps-search-form{
+    opacity:1;
+    display:block;
+}
+
+.icon_style .click-icon{
+    height: auto;
+    cursor: pointer;
+}
+.thaps-box-open .thaps-icon-arrow {
+    display: block;
+    position: absolute;
+    top: calc(100% + 2px);
+    left: 0;
+    z-index: 5;
+    width: 15px;
+    height: 15px;
+    background: #fff;
+        border-left: 1px solid #ddd;
+    border-top: 1px solid #ddd;
+    -webkit-transform: rotate(
+45deg
+);
+    -moz-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(
+45deg
+);
+}
+
+div.thaps-autocomplete-suggestions::-webkit-scrollbar-track
+{
+    
+    background-color: #f1f1f1;
+}
+
+div.thaps-autocomplete-suggestions::-webkit-scrollbar
+{
+    width: 10px;
+    background-color: #E5E6E8;
+}
+
+div.thaps-autocomplete-suggestions::-webkit-scrollbar-thumb
+{
+    background-color: #E5E6E8;
+
+                     
+}
+.thaps-search-box .th-icon{
+font-size:1.62rem;
+}
